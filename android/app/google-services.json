@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "632942902686",
+    "project_id": "whereapp-83468",
+    "storage_bucket": "whereapp-83468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632942902686:android:4410ce14620e379fb5ea8f",
+        "android_client_info": {
+          "package_name": "com.example.calendar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrPUvCX5zMkfkZ43TcDn34Vin0Aa4cr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632942902686-mk9r2bjtaci02t9nmqn1po4gi5c2317q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calendarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632942902686:android:8e79b74cd36d3ee4b5ea8f",
+        "android_client_info": {
+          "package_name": "com.example.state_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrPUvCX5zMkfkZ43TcDn34Vin0Aa4cr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632942902686-mk9r2bjtaci02t9nmqn1po4gi5c2317q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calendarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632942902686:android:02fe6b7633ece352b5ea8f",
+        "android_client_info": {
+          "package_name": "com.go_auth_application.go_router_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrPUvCX5zMkfkZ43TcDn34Vin0Aa4cr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632942902686-5mnrsfqf19nsjjraq3ta2atp0pdsdj9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632942902686-mk9r2bjtaci02t9nmqn1po4gi5c2317q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calendarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
